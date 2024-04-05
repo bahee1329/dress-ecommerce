@@ -1,0 +1,95 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "image": "assets/images/products/image1.jpg",
+      "name": "Black Hoodie",
+      "price": "24.99999",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "image": "assets/images/products/image4.jpg",
+      "name": "Gray Dress ",
+      "price": "620000",
+      "rating": 3
+    },
+    {
+      "id": 5,
+      "image": "assets/images/products/image5.jpg",
+      "name": "Black T-Shirt (Mens)",
+      "price": "55.000",
+      "rating": 5
+    },
+    {
+      "id": 6,
+      "name": "Jeans Jacket",
+      "image": "assets/images/products/image6.jpg",
+      "price": "115.0",
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "name": "Black T-Shirt (Womens)",
+      "image": "assets/images/products/image7.jpg",
+      "price": "25.0",
+      "rating": 3
+    },
+    {
+      "id": 8,
+      "name": "Beige Trench Coat",
+      "image": "assets/images/products/image8.jpg",
+      "price": "52.0",
+      "rating": 1
+    },
+    {
+      "id": 9,
+      "name": "Stylish Shoes",
+      "image": "assets/images/products/image9.jpg",
+      "price": "32.0",
+      "rating": 2
+    },
+    {
+      "id": 10,
+      "image": "assets/images/products/image10.jpg",
+      "name": "Stylish Shoes - B",
+      "price": "55.000",
+      "rating": 5
+    },
+    {
+      "id": 11,
+      "name": "Beanie Black",
+      "image": "assets/images/products/image11.jpg",
+      "price": "15.0",
+      "rating": 1
+    },
+    {
+      "id": 12,
+      "name": "Beanie Orange",
+      "image": "assets/images/products/image12.jpg",
+      "price": "12.5",
+      "rating": 2
+    },
+    {
+      "id": 13,
+      "name": "Beanie Red",
+      "image": "assets/images/products/image13.jpg",
+      "price": "14.5",
+      "rating": 4
+    },
+    {
+      "id": 15,
+      "image": "assets/images/products/image15.jpg",
+      "name": "Cyan Long Sleeve Shirt",
+      "price": "15.50",
+      "rating": 5
+    },
+    {
+      "id": 16,
+      "image": "assets/images/products/image16.jpg",
+      "name": "Yellow Raincoat",
+      "price": "12.500",
+      "rating": 3
+    }
+  ]
+}
